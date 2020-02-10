@@ -312,6 +312,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 When external load like wind applies to the quadrotors, I find they can become unstable even with tuned control parameters.
 The worst case is to apply to drones with non-idealities, which is scenario 4.  The video below shows the green quadrotor becomes unstable at the end due to a vertical and lateral load.
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=KOxnuyJfHDA
 " target="_blank"><img src="http://img.youtube.com/vi/KOxnuyJfHDA/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
