@@ -10,7 +10,7 @@ Since the control is dependent on quadrotor physics, it is important to remember
 They are shown in the figures below.  They must be used in consistency throughout the control code.
 <p align="center">
 <img src="img/Drone1.png" width="500"/>
-<img src="img/Drone1_1.png" width="500"/>
+<img src="img/drone1_1.png" width="500"/>
 <img src="img/Drone2.png" width="500"/>
 </p>
 
